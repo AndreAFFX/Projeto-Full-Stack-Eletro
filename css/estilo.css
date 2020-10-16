@@ -26,6 +26,15 @@ body {
 
 .preço {
          color: red;
+         width: 200px;
+         font-weight: bold;
+         font-size: 20px;
+
+}
+
+.descrição  {
+              font-size: 20px;
+              width: 300px;
 
 }
            
@@ -73,20 +82,6 @@ body {
 
 }
 
-.box {
-    
-    margin-left: 50px;
-    margin-top: 50px;
-    width: 500px;
-    
-    
-}
-
-.preço {
-          width: 100px;
-          font: Arial;
-
-}
 
 
 .descrição {
@@ -96,6 +91,56 @@ body {
 }
 
 
+div #geladeira.box_produto {
+                              width: 400px;
+                              height: 400px;
+                              display: inline-block; 
 
 
+}
+
+
+div #fogão.box_produto {
+                          width: 500px;
+                          height: 500px;
+                          display: inline-block;
+
+
+
+}
+
+
+div #micro-ondas.box_produto {
+                               width: 400px;
+                               height: 400px;
+                               display: inline-block;
+
+
+
+}
+
+div #lavadoraderoupas.box_produto {
+
+                                     width: 500px;
+                                     height: 500px;
+                                     display: inline-block;
+
+}
+
+div #lava-louças.box_produto {
+                                width: 500px;
+                                height: 500px;
+                                display: inline-block;
+
+
+}
+
+div #produtos {
+                 width: 100px;
+                 height: 100px;
+                 display: inline-block;
+
+
+
+}
 
