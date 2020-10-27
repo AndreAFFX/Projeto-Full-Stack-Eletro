@@ -1,0 +1,13 @@
+idproduto,categoria,descrição,imagem,preço
+1,geladeira,"Geladeira Brastemp Frost free Evox Inverse 540,6Lt",Imagens/produtos/Geladeira/Geladeira%20Brastemp/geladeirabrastempfrostfree.jpg,3250.00
+2,geladeira,"Geladeira Electrolux 2p Cycle defrost 260Lt branco",Imagens/produtos/Geladeira/Geladeira%20Electrolux/geladeira%20electrolux%202p%20cycle%20defrost%20260l%20%20branco.jpg,3250.00
+3,geladeira,"Geladeira Frost Free Panasonic 425Lt 2p Preto",Imagens/produtos/Geladeira/Geladeira%20Panasonic/geladeira-frost-free%20panasonic-425-litros%20%202p%20preto.jpg,3134.05
+4,fogão,"Fogão 4 Bocas Electrolux Preto Acendimento automático",Imagens/produtos/Fog%C3%A3o/Fog%C3%A3o%20Electrolux/fog%C3%A3o%204%20bocas%20electrolux%20preto%20acendimento%20autom%C3%A1tico.jpg,259.99
+5,fogão,"Fogão 5 Bocas Consul Acendimento automático",Imagens/produtos/Fog%C3%A3o/Fog%C3%A3o%20Consul/fog%C3%A3o%205%20bocas%20consul%20acendimento%20autom%C3%A1tico%20inox.jpg,399.99
+6,micro-ondas,"Micro-ondas Electrolux 20l",Imagens/produtos/micro-ondas/Micro-ondas%20Electrolux/micro-ondas%20electrolux%20%2020l.jpg,490.00
+7,micro-ondas,"Micro-ondas LG solo 30Lt Prata",Imagens/produtos/micro-ondas/Micro-ondas%20LG/micro-ondas%20lg%20solo%2030lt%20prata.jpg,599.99
+8,micro-ondas,"Micro-ondas Midea branco 20Lt",Imagens/produtos/micro-ondas/Micro-ondas%20Midea/micro-ondas%20midea%20branco%2020l.jpg,350.90
+9,"lavadora de roupas","Lavadora de Roupas Consul 11kg branca",Imagens/produtos/lavadora%20de%20roupas/Lavadora%20de%20roupas%20Consul/lavadora%20de%20de%20roupas%20consul%2011kg%20branca.jpg,1599.90
+10,"lavadora de roupas","Lavadora de Roupas Electrolux 11kg branca",Imagens/produtos/lavadora%20de%20roupas/Lavadora%20de%20Roupas%20Electrolux/lavadora%20electrolux%20lac13.jpg,1200.00
+11,lava-louças,"Lava - louças branca Electrolux",Imagens/produtos/lava-lou%C3%A7as/Lava-lou%C3%A7as%20Electrolux/lava-lou%C3%A7as%20branca%20electrolux.jpg,4099.90
+12,lava-louças,"Lava - louças Brastemp",Imagens/produtos/lava-lou%C3%A7as/Lava-lou%C3%A7as%20Brastemp/lava-lou%C3%A7as%20brastemp.jpg,3999.90

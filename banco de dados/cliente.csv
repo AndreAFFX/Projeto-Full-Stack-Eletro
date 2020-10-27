@@ -1,0 +1,7 @@
+idPedidos,cliente,endereço,telefone,produto,"valor unitário",quantidade,"valor total"
+1,"João Almeida Sousa","Rua Caiubi, 100 Apto 501 – Barra Funda/SP",(11)1111-1111,"Geladeira Brastemp Frost free Evox Inverse 540,6Lt",3250.00,2,6500.00
+2,"Maria Lucíola Bianco","Rua Emílio Wolf, 20 Apto 33 – Barra da Tijuca RJ",(21)8888-8888,"Lavadora de Roupas Consul 11kg branca",1599.90,1,1599.90
+3,"Kaíque Santos","Avenida Santa Catarina, 262 Apto 100 – Tabuleiro – Camboriú/SC",(47)7777-7777,"Fogão 5 Bocas Consul Acendimento automático",399.99,2,799.98
+4,"Osmar Silva Santos","Rua Caim, 20 Jardim São Pedro – Barueri/SP",(11)1122-2211,"Micro-ondas Electrolux 20l",490.00,4,1960.00
+5,"Luíza Vieira","Rua Professor Hermes Lima, 500 Apto 1001 – Recreio dos Bandeirantes/RJ",(21)4545-4545,"Lava - louças Brastemp",3999.90,2,7999.80
+6,"Ione Marta Silva","Rua Itapeva, 10 Itacorubi – Florianópolis/SC",(47)8383-8383,"Micro-ondas LG solo 30Lt Prata",590.99,1,590.99
