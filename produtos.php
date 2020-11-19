@@ -1,3 +1,7 @@
+<?php
+    require ('./bd/conexao.php');
+    session_start();
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
      <head>
@@ -7,18 +11,9 @@
           <script src="js/funções.js"></script>
 		  </head>
 		  <body>
-               <!- - Início do menu - ->
-                  
-               <nav id="menu">
-                <ul>
-                   <li><a href="index.html"><img src="./Imagens/Logo/logo.png" width="150px"></li>
-                   <li><a href="produtos.html">Produto</a></li>
-                   <li><a href="lojas.html">Nossas lojas</a></li>
-                   <li><a href="fale conosco.html">Fale conosco</a></li>
-                </ul>
-            </nav>
-             
-                  <!- - Fim do menu - ->
+                <!-- Início do Menu -->
+                <?php require_once('menu.html'); ?>
+                <!-- Fim do Menu -->
             <header>
                <H1>Produtos</H1>
             </header>
@@ -154,19 +149,9 @@
                                    <div class="preço">Por: R$ 3.999,90</div>                               
                                </div>
                            </div>
-                <br> <br> <br> <br> <br>
-			 <br> <br> <br> <br> <br>
-			 <br> <br> <br> <br> <br>
-			 <br> <br> <br> <br> <br>
-                <footer id="rodape">
-				<p id="formas-pagamento"><strong>Formas de pagamento:</strong></p>
-			     <p id="formas-pagamento"><img src="./Imagens/formas pagamento/formas-pagamento.png"></p>
-				<p id="formas-pagamento">&copy; Full Stack Eletro</p>
-
-			 </footer>	
+                           <br><br>
+					<!-- Início do footer -->
+                    <?php require_once('rodape.html'); ?>
+                    <!-- Fim do footer -->	
          </body>
 </html>	
-                       
-               	
-			   
-				   

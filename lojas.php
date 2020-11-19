@@ -1,3 +1,6 @@
+<?php
+	require ('./bd/conexao.php');
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
      <head>
@@ -6,18 +9,9 @@
       <link rel="stylesheet" href="./css/estilo.css">
 		  </head>
 		  <body>
-               <!- - Início do menu - ->
-          
-               <nav id="menu">
-                <ul>
-                   <li><a href="index.html"><img src="./Imagens/Logo/logo.png" width="150px"></li>
-                   <li><a href="produtos.html">Produto</a></li>
-                   <li><a href="lojas.html">Nossas lojas</a></li>
-                   <li><a href="fale conosco.html">Fale conosco</a></li>
-                  </ul>
-              </nav>
-
-                  <!- - Fim do menu - ->
+           <!-- Início do Menu -->
+           <?php require_once('menu.html'); ?>
+           <!-- Fim do Menu -->
                <H2>Nossas lojas</H2>
                <hr>
                <table border=0 widht="100%" cellpadding="10">
@@ -52,31 +46,10 @@
                         <p>(47) 5555-5555</p>
                       </td>
                   </tr>
-              </table>  
-              <br> <br> <br> <br> <br>
-              <br> <br> <br> <br> <br>
-              <br> <br> <br> <br> <br>
-              <br> <br> <br> <br> <br>
-              <footer id="rodape">
-                <p id="formas-pagamento"><strong>Formas de pagamento:</strong></p>
-                   <p id="formas-pagamento"><img src="./Imagens/formas pagamento/formas-pagamento.png"></p>
-                <p id="formas-pagamento">&copy; Full Stack Eletro</p>
-        
-               </footer>	
+              </table>
+              <br> <br>
+					          <!-- Início do footer -->
+                    <?php require_once('rodape.html'); ?>
+                    <!-- Fim do footer -->
          </body>
-</html>	
-                  
-                  
-                  
-                  
-                        
-                  
-                        
-
-                        
-                  
-               
-               		   
-
-
-		
+</html>
